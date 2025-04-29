@@ -1,4 +1,4 @@
-> Ro-Racing tracks are stored under this repo for storage reasons as a digital library for users to explore what tracks are available that are not found in ROBLOX library.
+> Ro-Racing tracks are stored under this repo for storage reasons as a digital library for users to explore what tracks are available that are not found in ROBLOX model store.
 
 # Ro-Racing Tracks
 A respiratory with a list of Ro-Racing tracks (project model files) that are added for preservation reasons. They can be used for league racing, inspiration, and general game use. Not all or one of these files belong to me, credits to their respective authors/creators.
